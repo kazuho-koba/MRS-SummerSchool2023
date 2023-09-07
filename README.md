@@ -37,7 +37,7 @@ IEEE RAS Summer School on Multi Robot Systems 2023 という国際サマース�
 - 2023年7月3日（月）～7日（金）
 - チェコ工科大学（チェコ共和国・プラハ）
  
-<img src="..\230703083653787.jpg" width="500" alt="会場となった電気工学部E棟" title="会場となった電気工学部E棟">
+<img src="https://github.com/kazuho-koba/MRS-SummerSchool2023/blob/main/pictures/230703083653787.jpg" width="500" alt="会場となった電気工学部E棟" title="会場となった電気工学部E棟">
 
 ### 参加者<!-- omit in toc -->
 - 2022年では31ヵ国から163名が現地参加、13名が遠隔参加[^1]
