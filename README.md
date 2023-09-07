@@ -40,6 +40,7 @@ IEEE RAS Summer School on Multi Robot Systems 2023 という国際サマース�
 <img src="https://github.com/kazuho-koba/MRS-SummerSchool2023/raw/main/pictures/230703083653787.jpg" width="500" alt="会場となった電気工学部E棟" title="会場となった電気工学部E棟">
   <figcaption>会場となった電気工学部E棟</figcaption>
 </figure>
+
 ### 参加者<!-- omit in toc -->
 - 2022年では31ヵ国から163名が現地参加、13名が遠隔参加[^1]
 - 自分が参加した2023年も同じくらいの規模に見えた
@@ -96,6 +97,7 @@ IEEE RAS Summer School on Multi Robot Systems 2023 という国際サマース�
   <img src="https://github.com/kazuho-koba/MRS-SummerSchool2023/raw/main/pictures/230704214834232.jpg" width="500" alt="夕飯に食べたローストポーク" title="夕飯に食べたローストポーク。今回の滞在で一番おいしかった。">
   <figcaption>夕飯に食べたローストポーク。今回の滞在で一番おいしかった。</figcaption>
 </figure>
+
 #### 3日目<!-- omit in toc -->
 - 講義が2コマ
 - 午後はグループワークがメイン
@@ -168,6 +170,7 @@ IEEE RAS Summer School on Multi Robot Systems 2023 という国際サマース�
 <figcaption>表彰式の様子（一番右が自分）</figcaption>
 </figure>
   <br><br>
+  
   - 実機部門は入賞できず、順位不明。
     - フィールドの諸元（障害物や点検箇所の配置）がシミュレーションと異なったようで、自分たちのチームは点検箇所の割り当てが上手く行かなかった様子だった。1機のドローンに殆どの点検箇所が集中して割り当てられていた。
 - 15時ごろスクール終了・解散。
