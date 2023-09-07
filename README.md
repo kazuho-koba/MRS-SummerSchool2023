@@ -36,9 +36,10 @@ IEEE RAS Summer School on Multi Robot Systems 2023 という国際サマース�
 ### 期間・場所<!-- omit in toc -->
 - 2023年7月3日（月）～7日（金）
 - チェコ工科大学（チェコ共和国・プラハ）
- 
+<figure>
 <img src="https://github.com/kazuho-koba/MRS-SummerSchool2023/raw/main/pictures/230703083653787.jpg" width="500" alt="会場となった電気工学部E棟" title="会場となった電気工学部E棟">
-
+  <figcaption>会場となった電気工学部E棟</figcaption>
+</figure>
 ### 参加者<!-- omit in toc -->
 - 2022年では31ヵ国から163名が現地参加、13名が遠隔参加[^1]
 - 自分が参加した2023年も同じくらいの規模に見えた
@@ -87,10 +88,14 @@ IEEE RAS Summer School on Multi Robot Systems 2023 という国際サマース�
 - 22時30分ごろ帰寮。
   - グループワークに不安があったので、少し課題のガイドやソースコードを読み解く。自分にもできそうな部分にアタリを付けた。
 
-<img src="https://github.com/kazuho-koba/MRS-SummerSchool2023/blob/main/pictures/230704201204248.jpg" width="500" alt="ツアーで訪れたカレル橋" title="ツアーで訪れたカレル橋">
-
-<img src="https://github.com/kazuho-koba/MRS-SummerSchool2023/blob/main/pictures/230704214834232.jpg" width="500" alt="夕飯に食べたローストポーク" title="夕飯に食べたローストポーク。この旅で一番おいしかった。">
-
+<figure>
+<img src="https://github.com/kazuho-koba/MRS-SummerSchool2023/raw/main/pictures/230704201204248.jpg" width="500" alt="ツアーで訪れたカレル橋" title="ツアーで訪れたカレル橋">
+  <figcaption>ツアーで訪れたカレル橋（カレルは英語ではチャールズと発音するらしい）</figcaption>
+</figure>
+<figure>
+  <img src="https://github.com/kazuho-koba/MRS-SummerSchool2023/raw/main/pictures/230704214834232.jpg" width="500" alt="夕飯に食べたローストポーク" title="夕飯に食べたローストポーク。今回の滞在で一番おいしかった。">
+  <figcaption>夕飯に食べたローストポーク。今回の滞在で一番おいしかった。</figcaption>
+</figure>
 #### 3日目<!-- omit in toc -->
 - 講義が2コマ
 - 午後はグループワークがメイン
@@ -117,8 +122,10 @@ IEEE RAS Summer School on Multi Robot Systems 2023 という国際サマース�
   - 下に図示した実験用のドローンだけでなく、プロペラ軸間距離1m程度の大型ドローン（ビル火災の消火実験に使うらしい）などもあった。
   - 他の研究機関などからの開発請負もしているらしい。
 
-
-<img src="https://github.com/kazuho-koba/MRS-SummerSchool2023/blob/main/pictures/230706145333110.jpg" width="500" alt="グループワーク課題の実機実験で使うクアッドロータ型ドローン。他にも様々な機体がある。" title="グループワーク課題の実機実験で使うクアッドロータ型ドローン。他にも様々な機体がある。">
+<figure>
+  <img src="https://github.com/kazuho-koba/MRS-SummerSchool2023/raw/main/pictures/230706145333110.jpg" width="500" alt="グループワーク課題の実機実験で使うクアッドロータ型ドローン。他にも様々な機体がある。" title="グループワーク課題の実機実験で使うクアッドロータ型ドローン。他にも様々な機体がある。">
+  <figcaption>グループワーク課題の実機実験で使うクアッドロータ型ドローン。他にも様々な機体がある。</figcaption>
+</figure>
 <br><br>
 
 - 18時ごろスクールとしては解散。
@@ -131,9 +138,14 @@ IEEE RAS Summer School on Multi Robot Systems 2023 という国際サマース�
   - 9時に川の中州に集合する。普段から実機実験はここでやっているらしい。
   - 電柱とソーラーパネルの模型が設置された環境を2機のドローンが飛び回る。
   - RTK-GPSを用いて位置が計測され、操作者の手元のノートPCからドローンを遠隔操作している様子。
-  
-  <img src="https://github.com/kazuho-koba/MRS-SummerSchool2023/blob/main/pictures/230707092904452.jpg" width="500" alt="実験フィールド。電柱、電線やソーラーパネルの模型が置かれている。RTK-GPSの基地局は画面外左に設置されていた。" title="実験フィールド。電柱、電線やソーラーパネルの模型が置かれている。RTK-GPSの基地局は画面外左に設置されていた。">
-  <img src="https://github.com/kazuho-koba/MRS-SummerSchool2023/blob/main/pictures/230707093626620.jpg" width="500" alt="実験セットはこのキャンピングカーで運ぶらしい。出張デモなどもあるだろうから便利なのかもしれない。" title="実験セットはこのキャンピングカーで運ぶらしい。出張デモなどもあるだろうから便利なのかもしれない。">
+<figure>
+  <img src="https://github.com/kazuho-koba/MRS-SummerSchool2023/raw/main/pictures/230707092904452.jpg" width="700" alt="実験フィールド。電柱、電線やソーラーパネルの模型が置かれている。RTK-GPSの基地局は画面外左に設置されていた。" title="実験フィールド。電柱、電線やソーラーパネルの模型が置かれている。RTK-GPSの基地局は画面外左に設置されていた。">
+  <figcaption>実験フィールド。電柱、電線やソーラーパネルの模型が置かれている。RTK-GPSの基地局は画面外左に設置されていた。</figcaption>
+</figure>
+<figure>
+  <img src="https://github.com/kazuho-koba/MRS-SummerSchool2023/raw/main/pictures/230707093626620.jpg" width="500" alt="実験セットはこのキャンピングカーで運ぶらしい。出張デモなどもあるだろうから便利なのかもしれない。" title="実験セットはこのキャンピングカーで運ぶらしい。出張デモなどもあるだろうから便利なのかも。">
+  <figcaption>実験セットはこのキャンピングカーで運ぶらしい。出張デモなどもあるだろうから便利なのかも。</figcaption>
+</figure>
   <br><br>
 
 - 各チームで順に提出したコードを走らせる。
@@ -151,7 +163,10 @@ IEEE RAS Summer School on Multi Robot Systems 2023 という国際サマース�
   - **自分たちのチームはシミュレーション部門で優勝することができた**
     - 全部の点検箇所を回ること、高度や速度などの制限に抵触しないことは多くのチームがクリアしていたので、所要時間（経路計画に要した計算時間＋実際の飛行に要した時間）が最も早かったものと思われる。
     - 点検箇所の割り当て、スムーズな経路の生成、それらの演算効率化がポイントだったらしい。
-    <img src="https://github.com/kazuho-koba/MRS-SummerSchool2023/blob/main/pictures/IMG_2772.jpg" width="500" alt="表彰式の様子（右が自分）" title="表彰式の様子（右が自分）">
+<figure>
+  <img src="https://github.com/kazuho-koba/MRS-SummerSchool2023/raw/main/pictures/IMG_2772.jpg" width="500" alt="表彰式の様子（右が自分）" title="表彰式の様子（右が自分）">
+<figcaption>表彰式の様子（一番右が自分）</figcaption>
+</figure>
   <br><br>
   - 実機部門は入賞できず、順位不明。
     - フィールドの諸元（障害物や点検箇所の配置）がシミュレーションと異なったようで、自分たちのチームは点検箇所の割り当てが上手く行かなかった様子だった。1機のドローンに殆どの点検箇所が集中して割り当てられていた。
