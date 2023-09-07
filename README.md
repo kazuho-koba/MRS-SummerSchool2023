@@ -141,7 +141,7 @@ IEEE RAS Summer School on Multi Robot Systems 2023 という国際サマース�
   - 電柱とソーラーパネルの模型が設置された環境を2機のドローンが飛び回る。
   - RTK-GPSを用いて位置が計測され、操作者の手元のノートPCからドローンを遠隔操作している様子。
 <figure>
-  <img src="https://github.com/kazuho-koba/MRS-SummerSchool2023/raw/main/pictures/230707092904452.jpg" width="700" alt="実験フィールド。電柱、電線やソーラーパネルの模型が置かれている。RTK-GPSの基地局は画面外左に設置されていた。" title="実験フィールド。電柱、電線やソーラーパネルの模型が置かれている。RTK-GPSの基地局は画面外左に設置されていた。">
+  <img src="https://github.com/kazuho-koba/MRS-SummerSchool2023/raw/main/pictures/230707092904452.jpg" width="500" alt="実験フィールド。電柱、電線やソーラーパネルの模型が置かれている。RTK-GPSの基地局は画面外左に設置されていた。" title="実験フィールド。電柱、電線やソーラーパネルの模型が置かれている。RTK-GPSの基地局は画面外左に設置されていた。">
   <figcaption>実験フィールド。電柱、電線やソーラーパネルの模型が置かれている。RTK-GPSの基地局は画面外左に設置されていた。</figcaption>
 </figure>
 <figure>
