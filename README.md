@@ -19,6 +19,7 @@ IEEE RAS Summer School on Multi Robot Systems 2023 という国際サマース�
 
 ## 記事の要旨
 - IEEEの[マルチロボットシステム技術委員会](https://www.multirobotsystems.org/)が提供するサマースクールに参加してきた（[スクールのwebサイト](http://mrs.felk.cvut.cz/summer-school-2023/)）
+  - 群ロボット、マルチロボットシステム、スワーム（スウォーム）ロボットなどと呼ばれる技術分野に関する5日間のサマースクール
   - 実務面は[チェコ工科大学のマルチロボットシステムグループ](http://mrs.felk.cvut.cz/)が提供している
   - 使ったコードなどは全て公開されていて自習も可能→[サマースクール向けのリポジトリ](https://github.com/ctu-mrs/summer-school-2023)
 - 講義のほか、3人1組のグループワークがある
