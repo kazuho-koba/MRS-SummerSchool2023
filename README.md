@@ -6,6 +6,7 @@ IEEE RAS Summer School on Multi Robot Systems 2023 という国際サマース�
 
 の2点の理由から、参加記録を残します。
 
+## 目次<!-- omit in toc -->
 - [記事の要旨](#記事の要旨)
 - [スクール基本情報](#スクール基本情報)
 - [参加記録](#参加記録)
