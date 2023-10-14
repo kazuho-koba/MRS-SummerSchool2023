@@ -263,3 +263,5 @@ IEEE RAS Summer School on Multi Robot Systems 2023 という国際サマース�
   - 今新しく発行するカードはほぼ対応しているかもしれないが、更新間際の自分の古いカードは対応しておらず、支払いのテンポが悪かった。
 
 [^1]: [Příhodová2023](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10084390)
+
+[トップページへ戻る](https://kazuho-koba.github.io/)
